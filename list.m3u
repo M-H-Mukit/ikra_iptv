@@ -7,5 +7,6 @@ https://cdn.furiousnet.net/hls/hdmi3/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
 http://172.16.29.250/hls/somoy.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/MTV-logo-2021.png/320px-MTV-logo-2021.png" group-title="Hindi",M TV
 http://tv.ebox.live:8081/thunderbd/102/chunks.m3u8?nimblesessionid=6037351&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMiA2OjU3OjMzIEFNJmhhc2hfdmFsdWU9YlBCdTBFbHI4Y2EvWEJ6UGZZOHRTQT09JnZhbGlkbWludXRlcz02MCZpZD01
