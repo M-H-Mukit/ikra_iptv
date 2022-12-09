@@ -1,27 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", GTV 1
 http://cdn.furiousnet.net/ehls/Gazi-TV.m3u8
-#EXTINF:-1,Gazi TV 2
-http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", GTV 3 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", GTV 2
 http://172.16.29.250/hls/Gazi-TV.m3u8
+#EXTINF:-1,GTV 3 temp
+http://10.90.90.114:8081/thunderbd/1/chunks.m3u8?nimblesessionid=10399464&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIyIDM6MjQ6NDAgUE0maGFzaF92YWx1ZT00b1doaFBWSm43M1lHaDlYd093bHpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Toffee 1
-http://tv.maguraplex.net:8000/live/toffee/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Toffee 2
 http://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Toffee 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Toffee 2
 http://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_640.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Tsports 1
 http://103.102.27.173/live/tvfeed1002/index.m3u8
-#EXTINF:-1,T Sports 2
+#EXTINF:-1,T Sports 2 temp
 http://tv.maguraplex.net:8000/live/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Sport 18 
-http://cdn.furiousnet.net/hls/hdmi3/index.m3u8
-#EXTINF:-1,Sports18
-http://tv.maguraplex.net:8000/live/sports18/index.m3u8
+http://cdn.furiousnet.net/hls/sonyten2/index.m3u8
+#EXTINF:-1,Sports 18 temp
+http://10.90.90.114:8081/thunderbd/102/chunks.m3u8?nimblesessionid=10429788&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIyIDQ6MDA6MjAgUE0maGFzaF92YWx1ZT1nUmUya0YyQUJva3FUKzVSY09HMXZRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
 http://172.16.29.250/hls/somoy.m3u8
