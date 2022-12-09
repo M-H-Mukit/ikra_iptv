@@ -1,30 +1,46 @@
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", GTV 1
 http://cdn.furiousnet.net/ehls/Gazi-TV.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Toffee
-http://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Toffee 2
-http://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_640.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", GTV 2 
+#EXTINF:-1,Gazi TV 2
+http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", GTV 3 
 http://172.16.29.250/hls/Gazi-TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Toffee 1
+http://tv.maguraplex.net:8000/live/toffee/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Toffee 2
+http://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Toffee 3
+http://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_640.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Tsports 1
 http://103.102.27.173/live/tvfeed1002/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", GTV Temp
-http://10.90.90.114:8081/thunderbd/1/chunks.m3u8?nimblesessionid=9288299&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDIyIDY6NTk6MjIgUE0maGFzaF92YWx1ZT00cDhVQk9LWW8yWnZkR2paVHEwVFpnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", GTV Temp
-http://10.90.90.114:8081/thunderbd/102/chunks.m3u8?nimblesessionid=9289473&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMy8yMDIyIDc6MDA6NTQgUE0maGFzaF92YWx1ZT0wSkxiNzhKVE13ZGFva2l6ZVV0dkRRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,T Sports 2
+http://tv.maguraplex.net:8000/live/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Sport 18 
 http://cdn.furiousnet.net/hls/hdmi3/index.m3u8
+#EXTINF:-1,Sports18
+http://tv.maguraplex.net:8000/live/sports18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
 http://172.16.29.250/hls/somoy.m3u8
 
+#EXTINF:-1,MTV HD+ TataSky
+http://iptv12k.com:35461/80203091402/213445/8741
+#EXTINF:-1,MTV HD TataSky
+http://iptv12k.com:35461/80203091402/213445/8739
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/MTV-logo-2021.png/320px-MTV-logo-2021.png" group-title="Hindi",M TV
-http://tv.ebox.live:8081/thunderbd/102/chunks.m3u8?nimblesessionid=6037351&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAyMiA2OjU3OjMzIEFNJmhhc2hfdmFsdWU9YlBCdTBFbHI4Y2EvWEJ6UGZZOHRTQT09JnZhbGlkbWludXRlcz02MCZpZD01
+
+#EXTINF:-1,TSN 2 SPORTS
+http://iptv12k.com:35461/80203091402/213445/10810
+
+
+#EXTINF:-1,BIEN SPORTS MAX 2
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=1049172&extension=ts&play_token=mPZuQzy9qh
+#EXTINF:-1,BIEN SPORTS MAX 1
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=1049176&extension=ts&play_token=WBjzLZJ5Nu
+#EXTINF:-1,BIEN SPORTS MAX 1
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=1049173&extension=ts&play_token=T3SQ9vpZTf
+#EXTINF:-1,BIEN SPORTS MAX 3
+http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=1049167&extension=ts&play_token=2mauLR8kGW
