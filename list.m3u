@@ -3,8 +3,8 @@
 http://cdn.furiousnet.net/ehls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", GTV 2
 http://172.16.29.250/hls/Gazi-TV.m3u8
-#EXTINF:-1,GTV 3 temp
-http://10.90.90.114:8081/thunderbd/1/chunks.m3u8?nimblesessionid=10399464&wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIyIDM6MjQ6NDAgUE0maGFzaF92YWx1ZT00b1doaFBWSm43M1lHaDlYd093bHpBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1,BTV
+http://172.16.29.250/hls/t-sports.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", Toffee 1
@@ -27,17 +27,3 @@ http://172.16.29.250/hls/somoy.m3u8
 http://iptv12k.com:35461/80203091402/213445/8741
 #EXTINF:-1,MTV HD TataSky
 http://iptv12k.com:35461/80203091402/213445/8739
-
-
-#EXTINF:-1,TSN 2 SPORTS
-http://iptv12k.com:35461/80203091402/213445/10810
-
-
-#EXTINF:-1,BIEN SPORTS MAX 2
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=1049172&extension=ts&play_token=mPZuQzy9qh
-#EXTINF:-1,BIEN SPORTS MAX 1
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=1049176&extension=ts&play_token=WBjzLZJ5Nu
-#EXTINF:-1,BIEN SPORTS MAX 1
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=1049173&extension=ts&play_token=T3SQ9vpZTf
-#EXTINF:-1,BIEN SPORTS MAX 3
-http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=1049167&extension=ts&play_token=2mauLR8kGW
